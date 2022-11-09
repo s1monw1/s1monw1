@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @s1monw1, an independent software engineer, writer, mentor and consultant. I have been specialized in JVM backend development for the past 10 years.
 - 👀 I’m interested in software, travel, digital nomadism
-
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me via contact@simon-wirtz.de
 
 <!---
